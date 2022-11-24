@@ -1,3 +1,22 @@
 # TugasHCI-FrontEnd
-Muhamad Tegar Fitriano Jagat 1313621032
-Daniella Natani Budiman 1313621008
+ 
+Anggota Kelompok :  
+
+    Tim A :
+       1. Fahreza Dhia Ananto  (ikut diskusi di zoom)
+       2. Faizal Rizqi Kholily (ikut diskusi di zoom + commit ionic file + src/views/TabsPage.vue + src/views/RegistrasionForm.vue)
+       3. Yohannes Kukuh Parlindungan (ikut diskusi di zoom)
+  
+    Tim B :
+       1. Aditya Nugraha (ikut diskusi di zoom)
+       2. Daniella Natani Budiman (commit src/views/HomePage.vue)
+       3. Faras Alif Rahman (ikut diskusi di zoom)
+  
+    Tim C :
+       1. Muhammad Tegar Fitriano Jagat (commit src/views/PondsPage.vue)
+       2. Mukhamad Dichoirin (ikut diskusi di zoom)
+       3. Andreas Chandra Bungaran (ikut diskusi di zoom)
+
+[You are now in the page of **Frontend Repo**]
+
+[Click here to see our **Backend Repo**](https://github.com/faizalrizqikholily/TugasHCI-BackEnd)
