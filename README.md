@@ -1,5 +1,10 @@
 # TugasHCI-FrontEnd
- 
+
+[You are now in the page of **Frontend Repo**]
+
+[Click here to see our **Backend Repo**](https://github.com/faizalrizqikholily/TugasHCI-BackEnd)
+
+
 Anggota Kelompok :  
 
     Tim A :
@@ -9,14 +14,10 @@ Anggota Kelompok :
   
     Tim B :
        1. Aditya Nugraha (ikut diskusi di zoom)
-       2. Daniella Natani Budiman (commit src/views/HomePage.vue)
+       2. Daniella Natani Budiman (ikut diskusi di zoom + commit src/views/HomePage.vue)
        3. Faras Alif Rahman (ikut diskusi di zoom)
   
     Tim C :
-       1. Muhammad Tegar Fitriano Jagat (commit src/views/PondsPage.vue)
+       1. Muhammad Tegar Fitriano Jagat (ikut diskusi di zoom + commit src/views/PondsPage.vue)
        2. Mukhamad Dichoirin (ikut diskusi di zoom)
        3. Andreas Chandra Bungaran (ikut diskusi di zoom)
-
-[You are now in the page of **Frontend Repo**]
-
-[Click here to see our **Backend Repo**](https://github.com/faizalrizqikholily/TugasHCI-BackEnd)
